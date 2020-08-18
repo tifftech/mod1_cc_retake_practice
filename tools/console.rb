@@ -6,7 +6,8 @@ def reload
   load 'config/environment.rb'
 end
 
-
+# CARYN SAYS: no testing??
+# CARYN SAYS: there's not a lot here. Let's talk after the review. 
 
 # ===== WARNING! DO NOT EDIT BELOW THIS LINE ===== #
 binding.pry
